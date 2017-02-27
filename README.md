@@ -2,6 +2,8 @@
 
 开发工具版本：Unity 4.6
 
+![在线试玩][3]
+
 **游戏简介**
 
 　　在生活中，我们通常都是根据声音判断周围环境中出现的人或物，Unity中也具有3D声音功能，它可以通过声源和摄像机的位置关系，自动计算音量和声像（PAN，左右声道的音量平衡），并实时显示出声音传来的方向。通过这个3D声音特性启发灵感开发这一款游戏——《鬼水怪谈》。
@@ -36,3 +38,4 @@
 
   [1]: https://github.com/wangsunhong/In-the-Dark-Water-unity-game/blob/master/screenshot.png
   [2]: https://github.com/wangsunhong/In-the-Dark-Water-unity-game/blob/master/In%20the%20Dark%20Water%20Cookbook.pdf
+  [3]: http://wangsunhong.github.io/In-the-Dark-Water-unity-game/
